@@ -1,4 +1,4 @@
 spring:
   datasource:
     username: dbuser
-    password: '{cipher}851abeffab6619f43157a714861f4682be8131b73b56b0451a7e268c88daea3'
+    password: '{cipher}AQBXidBT05CWSBsrie0gRWVRbI5YDVdTMpqmP+u5Uh4HgQ0DRrER3Ybjv0FsOTIEp8OIKkgpO6k3AH5YO0qjGXoQYY5wz8/aUf/BYNmmqRua7HnRodSiI/DtCWY2MOp99RzwU2L1UaSLtOw47ZfyZAS5C9I+SeZ95PrXXWmhVtYaWpREEKnUaEfbaRCKY9gjFeLrf2zyNGjV8OQHczn7lIAtPA/WGmI5PJQQG1h6z1NZRNYJwnQBBNvgetCxaQj2woRjIfTe0QAeolyuppk08mRW0orVwky6tihqboWCtZ1tsW0w7ZnRbcihnPTu7D/UFvCrwdckkavyq2xTHe8cn5zYrUlnRWhK0aDHgrwfsCP3SclKqql5Jt9Sp0KTiN5z+R0='
